@@ -11,6 +11,7 @@ Request Spesification
 ```
 url: http://localhost:5000//ml_ultramicroloan
 heder: Content-Type:application/json
+method: POST
 body: {
   "jangka_waktu":24,
   "plafond": 25000000.0,
